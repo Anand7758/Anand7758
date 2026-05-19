@@ -21,7 +21,7 @@
 </h2>
 
 <h2 align="center">
-  <a href="https://drive.google.com/file/d/1Jo_akuG2xhSSoGDPM5TNTF3bY0cV-_QR/view?usp=sharing" target="_blank">Download My Resume</a>
+  <a href=https://github.com/AnandJogawade" target="_blank">Download My Resume</a>
 </h2>
 
 <h2 align="center">Contact Me</h2>
