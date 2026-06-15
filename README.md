@@ -11,8 +11,8 @@
 
 <h3 align="center">[Turning Weaknesses Into Your Strongest Defense]</h3>
 
-<p align="center">👑 Welcome 👑</p>
-<p align="center">⏺ CyberSecurity 👩‍💻</p>
+<p align="center">👑 Security Researcher 👑</p>
+<p align="center">⏺ Red Teamer 👩‍💻</p>
 
 <hr>
 
